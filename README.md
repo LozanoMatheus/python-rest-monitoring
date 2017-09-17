@@ -30,3 +30,13 @@ Change the file "webserver.py" in lines 11 and 12.
 ## Health check
 ### URL Default
 127.0.0.1:9000/health
+
+### Example output
+***Sucessful:*** <br/>
+<br/>
+![solarized palette](.example_sucessful.png)
+<br/>
+
+***Error:*** <br/>
+<br/>
+![solarized palette](.example_error.png)
