@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ispncon="/home/msanches/Softwares/PagSeguro/Stress-Test-JDG/ispncon/bin/ispncon"
+ispncon="clients/ispncon/bin/ispncon"
 
 KEY=$(shuf -i 1-50000 -n 1)
 VALUE=$(shuf -i 1-50000 -n 1)

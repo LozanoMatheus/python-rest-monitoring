@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: ispncon
+Version: 0.8.1-SNAPSHOT
+Summary: Infinispan Console
+Home-page: UNKNOWN
+Author: Michal Linhard
+Author-email: michal@linhard.sk
+License: LGPL
+Description: See `Infinispan Console <https://github.com/infinispan/ispncon>`_ for more information.
+Keywords: infinispan hotrod memcached rest nosql datagrid console
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)
+Classifier: Programming Language :: Python
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

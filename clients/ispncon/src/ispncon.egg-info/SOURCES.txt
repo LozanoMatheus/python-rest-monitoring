@@ -1,0 +1,10 @@
+setup.py
+ispncon/__init__.py
+ispncon/client.py
+ispncon/codec.py
+ispncon/console.py
+ispncon.egg-info/PKG-INFO
+ispncon.egg-info/SOURCES.txt
+ispncon.egg-info/dependency_links.txt
+ispncon.egg-info/requires.txt
+ispncon.egg-info/top_level.txt

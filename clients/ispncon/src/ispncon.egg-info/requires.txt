@@ -1,0 +1,4 @@
+setuptools
+greenlet
+infinispan
+python-memcached
